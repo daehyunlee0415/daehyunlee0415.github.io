@@ -9,10 +9,10 @@
 title: Dae Hyun Lee
 email: dhlee4 at uw.edu
 description: > # this means to ignore newlines until "baseurl:"
-  I am Dae Hyun Lee, an MLE at Apple and a former Ph.D. student in Biomedical and Health Informatics at the University of Washington. I am passionate about understanding new things, building practical systems, and applying interpretable machine learning to clinical data to predict adverse events and discover better care pathways.
+  I’m Dae Hyun Lee, an MLE at Apple and a former Ph.D. student at the University of Washington. I like learning new things, building practical systems, and applying interpretable machine learning to clinical data. GitHub: @daehyunlee0415.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://dhlee4.github.io" # the base hostname & protocol for your site
-github_username: dhlee4
+url: "https://daehyunlee0415.github.io" # the base hostname & protocol for your site
+github_username: daehyunlee0415
 
 # Build settings
 markdown: kramdown
@@ -25,7 +25,7 @@ feed:
   path: atom.xml
 
 # Helps jekyll-github-metadata (from github-pages) when building locally
-repository: dhlee4/dhlee4.github.io
+repository: daehyunlee0415/daehyunlee0415.github.io
 
 defaults:
   - scope:
