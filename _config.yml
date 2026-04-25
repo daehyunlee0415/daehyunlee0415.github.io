@@ -11,8 +11,18 @@ email: dhlee4 at uw.edu
 description: > # this means to ignore newlines until "baseurl:"
   My name is Dae Hyun Lee and I'm Ph.D. student studing for biomedical and health informatics from University of Washington. I'm big enthusiest for applying interpretable machine learning approaches to clinical data to predict future adverse event or discover novel care pathway which allow us to improve current practice.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://dhlee4.github.io" # the base hostname & protocol for your site
-github_username:  dhlee4
+url: "https://dhlee4.github.io" # the base hostname & protocol for your site
+github_username: dhlee4
 
 # Build settings
 markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Bundled with github-pages; keep Atom feed here so the hand-written RSS at feed.xml stays valid.
+feed:
+  path: atom.xml
+
+# Helps jekyll-github-metadata (from github-pages) when building locally
+repository: dhlee4/dhlee4.github.io
