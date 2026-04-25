@@ -9,7 +9,7 @@
 title: Dae Hyun Lee
 email: dhlee4 at uw.edu
 description: > # this means to ignore newlines until "baseurl:"
-  I’m Dae Hyun Lee, an MLE at Apple and a former Ph.D. student at the University of Washington. I like learning new things, building practical systems, and applying interpretable machine learning to clinical data. GitHub: @daehyunlee0415.
+  I am Dae Hyun Lee, an MLE at Apple and a former Ph.D. student in Biomedical and Health Informatics at the University of Washington. I am passionate about understanding new things, building practical systems, and applying interpretable machine learning to clinical data to predict adverse events and discover better care pathways.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://daehyunlee0415.github.io" # the base hostname & protocol for your site
 github_username: daehyunlee0415
