@@ -9,6 +9,9 @@ layout: default
   </header>
 
   <div class="post-content" itemprop="articleBody">
+    {% if page.ai_disclaimer %}
+    <p><em>Written by Gemini, skimmed through but haven't edited.</em></p>
+    {% endif %}
     {{ content }}
   </div>
 

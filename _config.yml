@@ -26,3 +26,10 @@ feed:
 
 # Helps jekyll-github-metadata (from github-pages) when building locally
 repository: dhlee4/dhlee4.github.io
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      ai_disclaimer: true
